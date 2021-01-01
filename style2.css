@@ -1,0 +1,65 @@
+body {
+
+    margin: 0;
+  
+      padding: 0;    
+      cursor: crosshair;
+
+  
+  }
+  
+  
+  h1 {
+  
+    position:absolute;
+
+    TOP: 40%;
+  
+    LEFT: 50%;
+  
+    transform: translate(-50%, -50%);
+  
+  
+    font-size: 36px;
+
+    
+    box-shadow: 70px 7px 30px hsl(61, 100%, 50%) ;
+
+
+
+    color:rgb(0,0,255); 
+
+
+  font-size: 90px;
+  
+    text-decoration-style:line;
+
+
+    text-shadow: 10px 1px 10px #ff00ea,
+   400px 200px 10px #0011ff;   
+  
+  }
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(comic.ttf);
+}
+
+div {
+    font-family: myFirstFont;
+  }
+
+
+
+  img {
+  
+    
+width: 5%;
+    
+  
+    position: fixed;
+    
+    }
+  
+  
+  

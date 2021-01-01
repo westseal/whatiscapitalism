@@ -1,0 +1,59 @@
+body {
+
+    margin: 0;
+  
+      padding: 0;    
+  cursor: crosshair;
+  }
+  
+  
+  h1 {
+  
+    position:absolute;
+
+    TOP: 40%;
+  
+    LEFT: 50%;
+  
+    transform: translate(-50%, -50%);
+  
+  
+    font-size: 36px;
+
+
+    color:rgb(238, 255, 0); 
+
+
+  font-size: 90px;
+  
+    text-decoration-style:line;
+
+
+    text-shadow: 10px 1px 10px #ff00ea,
+    100px 20px 100px #51ff00;
+
+  
+  }
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(comic.ttf);
+}
+
+div {
+    font-family: myFirstFont;
+  }
+  
+  img {
+  
+  height: 100%;
+  
+  width: 100%;
+  
+  margin-top: 0%;
+
+  
+  
+  }
+
+
